@@ -1,0 +1,28 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "username" : "amit@maurya",
+            "passord" : "12345678"
+        },
+        {
+            "id" : 2,
+            "username" : "amit@maurya",
+            "passord" : "12345678"
+        },
+        {
+            "id" : 3,
+            "username" : "amit@maurya",
+            "passord" : "12345678"
+        }
+    ],
+    "products" : [
+        {
+            "id" :1,
+            "title" : "shirt",
+            "img" : "https://i.pinimg.com/originals/22/4c/26/224c26b99c972b60829ac7aa5d4e3f7e.jpg"
+
+        }
+    ],
+    "mobiles" : []
+}
