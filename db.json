@@ -8,64 +8,9 @@
           "kms": 10000,
           "Description": "Tata Altroz with all original documents",
           "Price": 500000
-        },
-        {
-          "id": 2,
-          "brand": "Bugati",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 600000
-        },
-        {
-          "id": 3,
-          "brand": "BMW",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 700000
-        },
-        {
-          "id": 4,
-          "brand": "Hundayi",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 900000
-        },
-        {
-          "id": 5,
-          "brand": "Lemoborgini",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 400000
-        },
-        {
-          "id": 5,
-          "brand": "thar",
-                "type":"AMT",
-          "year": 2017,
-          "kms": 8000,
-          "Description": "Tata Nexon with all original documents",
-          "Price": 300000
         }
       ],
-      "wishlisted_cars": [
-        {
-          "id": 1,
-          "brand": "porche",
-          "year": 2019,
-          "type":"Manual",
-          "kms": 10000,
-          "Description": "Tata Altroz with all original documents",
-          "Price": 500000
-        }
-      ],
+      "wishlisted_cars": [],
       "signup" : [],
       "login" : [],
       "todos" : [],
